@@ -1,0 +1,9 @@
+pydantic==1.9.1
+pymongo==4.2.0
+fastapi~=0.95.1
+fastapi-sessions
+uvicorn==0.18.2
+python-multipart
+pandas==2.0.1
+openpyxl==3.1.2
+python-dateutil~=2.8.2
