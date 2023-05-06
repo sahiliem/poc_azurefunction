@@ -1,5 +1,5 @@
 {
-  "scriptFile": "server.py",
+  "scriptFile": "my_server.py",
   "bindings": [
     {
       "authLevel": "anonymous",
